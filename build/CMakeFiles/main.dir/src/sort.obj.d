@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/src/sort.obj: \
- C:\Users\17637\Desktop\C++_demo\src\sort.c \
+ C:\Users\17637\Desktop\C++_demo\src\sort.cpp \
  D:/mingw64/x86_64-w64-mingw32/include/stdio.h \
  D:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
  D:/mingw64/x86_64-w64-mingw32/include/_mingw.h \

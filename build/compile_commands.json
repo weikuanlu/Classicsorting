@@ -1,12 +1,12 @@
 [
 {
   "directory": "C:/Users/17637/Desktop/C++_demo/build",
-  "command": "D:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\src\\sort.obj -c C:\\Users\\17637\\Desktop\\C++_demo\\src\\sort.c",
-  "file": "C:/Users/17637/Desktop/C++_demo/src/sort.c"
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\src\\sort.obj -c C:\\Users\\17637\\Desktop\\C++_demo\\src\\sort.cpp",
+  "file": "C:/Users/17637/Desktop/C++_demo/src/sort.cpp"
 },
 {
   "directory": "C:/Users/17637/Desktop/C++_demo/build",
-  "command": "D:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\main.obj -c C:\\Users\\17637\\Desktop\\C++_demo\\main.c",
-  "file": "C:/Users/17637/Desktop/C++_demo/main.c"
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\main.obj -c C:\\Users\\17637\\Desktop\\C++_demo\\main.cpp",
+  "file": "C:/Users/17637/Desktop/C++_demo/main.cpp"
 }
 ]

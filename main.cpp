@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include "head/sort.h"
 
+#include <iostream>
+using namespace std;
+
 int main() {
     int arr1[10] = {15,22,8,29,33,55,68,42,2,10};
     int arr2[10] = {15,22,8,29,33,55,68,42,2,10};
@@ -28,8 +31,13 @@ int main() {
     quick_sort(arr4, 0, 9);
     display(arr4, 10);
 
+    // 5:
     printf("heap_sort: \n");
     heap_sort(arr5, 10);
     display(arr4, 10);
     
+    // 6:
+    printf("merge_sort: \n");
+    merge_sort(arr5, 0, 9);
+    display(arr4, 10);
 }
